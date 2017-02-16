@@ -5,7 +5,7 @@ Lyst til å bare komme i gang og skrive Elm, uten å sitte i timesvis og knote m
 Da er dette repoet for deg!
 
 Dette repoet er et forsøk på et minimalt oppsett av en Elm-applikasjon.
-Bruk det gjerne som et utgangspunkt for ditt eget prosjekt i Elm hvis du vil det. :)
+Bruk det gjerne som et utgangspunkt for ditt eget prosjekt i Elm om du føler for det. :)
 
 ## Før du starter
 
